@@ -13,7 +13,7 @@
 
 #### How to Use
 
-1.Open the .pbix file in Power BI Desktop
+1.Open the Performance Report.pbix file in Power BI Desktop
 
 2.Refresh the data or connect to your own data source
 
